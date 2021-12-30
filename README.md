@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Mahesh Adhikari**, Software engineer with more than 6 years of experience.
-- 👀 I’m interested in Full stack development with Python as backend and 
+- 👀 I’m interested in Full stack development with Python as backend and any frontend technology (but prefer Vue.js). 
 - 🌱 I’m currently learning docker, django rest framework.
 - 💞️ I’m looking to collaborate on Feels-good projects.
 - 📫 How to reach me  **adkmahesh555@gmail.com**
